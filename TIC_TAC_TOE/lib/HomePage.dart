@@ -126,8 +126,7 @@ class _HomepageState extends State<Homepage> {
       });
     }
   }
-    //horizontal cases
-   
+     
   
 
   //TODO: assining of image to the box
